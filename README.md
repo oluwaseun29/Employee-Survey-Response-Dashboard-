@@ -12,6 +12,8 @@ Provide actionable recommendations to improve employee engagement and workplace 
 
 Dashboard Overview
 <img width="1216" height="679" alt="17829442128442850677985549090213" src="https://github.com/user-attachments/assets/c6d9b7d6-dcd7-406f-87f0-15b6c5fea464" />
+<img width="1209" height="682" alt="1783267325880906932747699268878" src="https://github.com/user-attachments/assets/c80fb046-f4ae-4880-8adb-069077c2a836" />
+
 
 
 The dashboard includes:
